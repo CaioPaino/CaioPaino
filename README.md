@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CaioPaino
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C++
+- 📫 @caio_paino
