@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CaioPaino
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JavaScript for back-end
 - 📫 @caio_paino
